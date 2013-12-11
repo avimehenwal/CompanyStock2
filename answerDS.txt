@@ -1,0 +1,9 @@
+[ index : { share : ,
+	      month : ,
+	      year  :
+	      companyA ; ,
+	    } ,
+
+companyB :  {
+            } ,	    
+]
